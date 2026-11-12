@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-11">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="kinship" type="double" />
+      <attribute id="1" title="relationship" type="string" />
+    </attributes>
+    <nodes>
+      <node id="F031_RB18029" label="F031_RB18029" />
+      <node id="F026_RB18027" label="F026_RB18027" />
+      <node id="D051_RB274" label="D051_RB274" />
+      <node id="D083_RB312" label="D083_RB312" />
+      <node id="F025_RB18027" label="F025_RB18027" />
+      <node id="B358_RB298" label="B358_RB298" />
+      <node id="D033_RB199" label="D033_RB199" />
+      <node id="D136_RB517" label="D136_RB517" />
+      <node id="W008_RB529" label="W008_RB529" />
+      <node id="W007_RB528" label="W007_RB528" />
+      <node id="D145_RB530" label="D145_RB530" />
+      <node id="B406_RB245" label="B406_RB245" />
+      <node id="B426_RB515" label="B426_RB515" />
+      <node id="more_09" label="more_09" />
+      <node id="more_08" label="more_08" />
+      <node id="D012_RB160" label="D012_RB160" />
+      <node id="towh_x2" label="towh_x2" />
+      <node id="towh_x1" label="towh_x1" />
+      <node id="D011_RB160" label="D011_RB160" />
+      <node id="more_14" label="more_14" />
+      <node id="more_10" label="more_10" />
+      <node id="F035_RB18034" label="F035_RB18034" />
+      <node id="F019_RB18026" label="F019_RB18026" />
+      <node id="B012_RB002" label="B012_RB002" />
+      <node id="B008_RB001" label="B008_RB001" />
+      <node id="B427_RB521" label="B427_RB521" />
+      <node id="B405_RB424" label="B405_RB424" />
+      <node id="D146_RB539" label="D146_RB539" />
+      <node id="D133_RB495" label="D133_RB495" />
+      <node id="B331_RB124" label="B331_RB124" />
+      <node id="D111_RB423" label="D111_RB423" />
+      <node id="F015_RB18022" label="F015_RB18022" />
+      <node id="D143_RB527" label="D143_RB527" />
+      <node id="B429_RB548" label="B429_RB548" />
+      <node id="D129_RB482" label="D129_RB482" />
+      <node id="sgan_05" label="sgan_05" />
+      <node id="sgan_01" label="sgan_01" />
+      <node id="F023_RB18027" label="F023_RB18027" />
+      <node id="F004_RB18014" label="F004_RB18014" />
+      <node id="B377_RB331" label="B377_RB331" />
+      <node id="sgan_02" label="sgan_02" />
+      <node id="F022_RB18027" label="F022_RB18027" />
+      <node id="F027_RB18028" label="F027_RB18028" />
+      <node id="murc_01" label="murc_01" />
+      <node id="D142_RB524" label="D142_RB524" />
+      <node id="D147_RB540" label="D147_RB540" />
+      <node id="F037_RB18035" label="F037_RB18035" />
+      <node id="F020_XB18027" label="F020_XB18027" />
+      <node id="D125_RB473" label="D125_RB473" />
+      <node id="sgan_10" label="sgan_10" />
+      <node id="B014_RB003" label="B014_RB003" />
+      <node id="F021_RB18027" label="F021_RB18027" />
+      <node id="sgan_08" label="sgan_08" />
+      <node id="B423_RB501" label="B423_RB501" />
+      <node id="D141_RB524" label="D141_RB524" />
+      <node id="sgan_06" label="sgan_06" />
+      <node id="F030_RB18029" label="F030_RB18029" />
+      <node id="D004_RB140" label="D004_RB140" />
+      <node id="B384_RB336" label="B384_RB336" />
+      <node id="D035_RB205" label="D035_RB205" />
+      <node id="B111_RB044" label="B111_RB044" />
+      <node id="B064_RB018" label="B064_RB018" />
+      <node id="D140_RB524" label="D140_RB524" />
+      <node id="D110_RB421" label="D110_RB421" />
+      <node id="B289_RB094" label="B289_RB094" />
+      <node id="gram_38" label="gram_38" />
+      <node id="more_17" label="more_17" />
+    </nodes>
+    <edges>
+      <edge source="F031_RB18029" target="F026_RB18027" id="0">
+        <attvalues>
+          <attvalue for="0" value="0.273521" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F025_RB18027" id="1">
+        <attvalues>
+          <attvalue for="0" value="0.226368" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F019_RB18026" id="2">
+        <attvalues>
+          <attvalue for="0" value="0.117943" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F035_RB18034" id="3">
+        <attvalues>
+          <attvalue for="0" value="0.110781" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="sgan_10" id="4">
+        <attvalues>
+          <attvalue for="0" value="0.0982236" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F021_RB18027" id="5">
+        <attvalues>
+          <attvalue for="0" value="0.0776956" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F037_RB18035" id="6">
+        <attvalues>
+          <attvalue for="0" value="0.0769012" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F030_RB18029" id="7">
+        <attvalues>
+          <attvalue for="0" value="0.0587571" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="F023_RB18027" id="8">
+        <attvalues>
+          <attvalue for="0" value="0.0517332" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F031_RB18029" target="sgan_01" id="9">
+        <attvalues>
+          <attvalue for="0" value="0.0477338" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F025_RB18027" id="10">
+        <attvalues>
+          <attvalue for="0" value="0.256027" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F019_RB18026" id="11">
+        <attvalues>
+          <attvalue for="0" value="0.156034" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F037_RB18035" id="12">
+        <attvalues>
+          <attvalue for="0" value="0.120322" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="sgan_10" id="13">
+        <attvalues>
+          <attvalue for="0" value="0.11335" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F035_RB18034" id="14">
+        <attvalues>
+          <attvalue for="0" value="0.100621" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F021_RB18027" id="15">
+        <attvalues>
+          <attvalue for="0" value="0.0829256" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="sgan_08" id="16">
+        <attvalues>
+          <attvalue for="0" value="0.0780182" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F020_XB18027" id="17">
+        <attvalues>
+          <attvalue for="0" value="0.0691581" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F026_RB18027" target="F023_RB18027" id="18">
+        <attvalues>
+          <attvalue for="0" value="0.0609465" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D083_RB312" id="19">
+        <attvalues>
+          <attvalue for="0" value="0.272903" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="B426_RB515" id="20">
+        <attvalues>
+          <attvalue for="0" value="0.22849" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D011_RB160" id="21">
+        <attvalues>
+          <attvalue for="0" value="0.214799" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D111_RB423" id="22">
+        <attvalues>
+          <attvalue for="0" value="0.192459" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D033_RB199" id="23">
+        <attvalues>
+          <attvalue for="0" value="0.141685" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D012_RB160" id="24">
+        <attvalues>
+          <attvalue for="0" value="0.0976067" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="B427_RB521" id="25">
+        <attvalues>
+          <attvalue for="0" value="0.0768328" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D140_RB524" id="26">
+        <attvalues>
+          <attvalue for="0" value="0.0605853" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D136_RB517" id="27">
+        <attvalues>
+          <attvalue for="0" value="0.0554226" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D051_RB274" target="D125_RB473" id="28">
+        <attvalues>
+          <attvalue for="0" value="0.048209" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="D033_RB199" id="29">
+        <attvalues>
+          <attvalue for="0" value="0.211115" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="D011_RB160" id="30">
+        <attvalues>
+          <attvalue for="0" value="0.201741" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="B426_RB515" id="31">
+        <attvalues>
+          <attvalue for="0" value="0.100091" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="D111_RB423" id="32">
+        <attvalues>
+          <attvalue for="0" value="0.0926452" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="D012_RB160" id="33">
+        <attvalues>
+          <attvalue for="0" value="0.064344" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D083_RB312" target="B427_RB521" id="34">
+        <attvalues>
+          <attvalue for="0" value="0.0520376" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F019_RB18026" id="35">
+        <attvalues>
+          <attvalue for="0" value="0.171341" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="sgan_02" id="36">
+        <attvalues>
+          <attvalue for="0" value="0.15991" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F037_RB18035" id="37">
+        <attvalues>
+          <attvalue for="0" value="0.129024" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F035_RB18034" id="38">
+        <attvalues>
+          <attvalue for="0" value="0.12713" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="sgan_08" id="39">
+        <attvalues>
+          <attvalue for="0" value="0.087072" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="sgan_10" id="40">
+        <attvalues>
+          <attvalue for="0" value="0.087" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F021_RB18027" id="41">
+        <attvalues>
+          <attvalue for="0" value="0.0815" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F030_RB18029" id="42">
+        <attvalues>
+          <attvalue for="0" value="0.0744565" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F023_RB18027" id="43">
+        <attvalues>
+          <attvalue for="0" value="0.0642292" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F027_RB18028" id="44">
+        <attvalues>
+          <attvalue for="0" value="0.0594901" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="F020_XB18027" id="45">
+        <attvalues>
+          <attvalue for="0" value="0.0527256" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F025_RB18027" target="sgan_06" id="46">
+        <attvalues>
+          <attvalue for="0" value="0.0498301" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B358_RB298" target="D033_RB199" id="47">
+        <attvalues>
+          <attvalue for="0" value="0.243106" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B358_RB298" target="D136_RB517" id="48">
+        <attvalues>
+          <attvalue for="0" value="0.236296" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B358_RB298" target="D012_RB160" id="49">
+        <attvalues>
+          <attvalue for="0" value="0.222957" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B358_RB298" target="D125_RB473" id="50">
+        <attvalues>
+          <attvalue for="0" value="0.0926674" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B358_RB298" target="B384_RB336" id="51">
+        <attvalues>
+          <attvalue for="0" value="0.0490335" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="D012_RB160" id="52">
+        <attvalues>
+          <attvalue for="0" value="0.143673" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="D136_RB517" id="53">
+        <attvalues>
+          <attvalue for="0" value="0.129404" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="D125_RB473" id="54">
+        <attvalues>
+          <attvalue for="0" value="0.0888632" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="B426_RB515" id="55">
+        <attvalues>
+          <attvalue for="0" value="0.0823715" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="D011_RB160" id="56">
+        <attvalues>
+          <attvalue for="0" value="0.0739437" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D033_RB199" target="D140_RB524" id="57">
+        <attvalues>
+          <attvalue for="0" value="0.0454292" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D136_RB517" target="B427_RB521" id="58">
+        <attvalues>
+          <attvalue for="0" value="0.207434" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D136_RB517" target="D012_RB160" id="59">
+        <attvalues>
+          <attvalue for="0" value="0.101719" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D136_RB517" target="D125_RB473" id="60">
+        <attvalues>
+          <attvalue for="0" value="0.065655" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W008_RB529" target="W007_RB528" id="61">
+        <attvalues>
+          <attvalue for="0" value="0.232716" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W008_RB529" target="D145_RB530" id="62">
+        <attvalues>
+          <attvalue for="0" value="0.128453" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W008_RB529" target="B406_RB245" id="63">
+        <attvalues>
+          <attvalue for="0" value="0.116962" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W008_RB529" target="B423_RB501" id="64">
+        <attvalues>
+          <attvalue for="0" value="0.0891103" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W008_RB529" target="D125_RB473" id="65">
+        <attvalues>
+          <attvalue for="0" value="0.0809818" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W007_RB528" target="D145_RB530" id="66">
+        <attvalues>
+          <attvalue for="0" value="0.230342" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W007_RB528" target="B406_RB245" id="67">
+        <attvalues>
+          <attvalue for="0" value="0.224958" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="W007_RB528" target="D125_RB473" id="68">
+        <attvalues>
+          <attvalue for="0" value="0.0696548" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D145_RB530" target="B406_RB245" id="69">
+        <attvalues>
+          <attvalue for="0" value="0.229131" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D145_RB530" target="D125_RB473" id="70">
+        <attvalues>
+          <attvalue for="0" value="0.114266" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B406_RB245" target="D125_RB473" id="71">
+        <attvalues>
+          <attvalue for="0" value="0.0532012" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B426_RB515" target="D111_RB423" id="72">
+        <attvalues>
+          <attvalue for="0" value="0.0695988" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B426_RB515" target="D125_RB473" id="73">
+        <attvalues>
+          <attvalue for="0" value="0.0625363" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B426_RB515" target="D011_RB160" id="74">
+        <attvalues>
+          <attvalue for="0" value="0.0547401" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="more_09" target="more_08" id="75">
+        <attvalues>
+          <attvalue for="0" value="0.226342" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D012_RB160" target="D011_RB160" id="76">
+        <attvalues>
+          <attvalue for="0" value="0.19306" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="towh_x2" target="towh_x1" id="77">
+        <attvalues>
+          <attvalue for="0" value="0.219548" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D011_RB160" target="D111_RB423" id="78">
+        <attvalues>
+          <attvalue for="0" value="0.0656073" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="more_14" target="more_10" id="79">
+        <attvalues>
+          <attvalue for="0" value="0.214521" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="F019_RB18026" id="80">
+        <attvalues>
+          <attvalue for="0" value="0.210971" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="sgan_05" id="81">
+        <attvalues>
+          <attvalue for="0" value="0.172601" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="F020_XB18027" id="82">
+        <attvalues>
+          <attvalue for="0" value="0.117504" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="F022_RB18027" id="83">
+        <attvalues>
+          <attvalue for="0" value="0.0745168" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="F023_RB18027" id="84">
+        <attvalues>
+          <attvalue for="0" value="0.065738" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F035_RB18034" target="sgan_01" id="85">
+        <attvalues>
+          <attvalue for="0" value="0.0526545" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="sgan_05" id="86">
+        <attvalues>
+          <attvalue for="0" value="0.174133" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="F037_RB18035" id="87">
+        <attvalues>
+          <attvalue for="0" value="0.119306" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="sgan_08" id="88">
+        <attvalues>
+          <attvalue for="0" value="0.101251" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="F020_XB18027" id="89">
+        <attvalues>
+          <attvalue for="0" value="0.0928633" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="F022_RB18027" id="90">
+        <attvalues>
+          <attvalue for="0" value="0.06834" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F019_RB18026" target="F023_RB18027" id="91">
+        <attvalues>
+          <attvalue for="0" value="0.0560057" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B012_RB002" target="B008_RB001" id="92">
+        <attvalues>
+          <attvalue for="0" value="0.208459" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B405_RB424" target="D146_RB539" id="93">
+        <attvalues>
+          <attvalue for="0" value="0.205691" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B405_RB424" target="F015_RB18022" id="94">
+        <attvalues>
+          <attvalue for="0" value="0.188815" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="B405_RB424" target="B429_RB548" id="95">
+        <attvalues>
+          <attvalue for="0" value="0.18368" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D146_RB539" target="B429_RB548" id="96">
+        <attvalues>
+          <attvalue for="0" value="0.0865494" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D146_RB539" target="F015_RB18022" id="97">
+        <attvalues>
+          <attvalue for="0" value="0.0569275" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D133_RB495" target="B331_RB124" id="98">
+        <attvalues>
+          <attvalue for="0" value="0.201597" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D133_RB495" target="D125_RB473" id="99">
+        <attvalues>
+          <attvalue for="0" value="0.0598989" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F015_RB18022" target="D129_RB482" id="100">
+        <attvalues>
+          <attvalue for="0" value="0.179404" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D143_RB527" target="B429_RB548" id="101">
+        <attvalues>
+          <attvalue for="0" value="0.186157" />
+          <attvalue for="1" value="First-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D129_RB482" target="B014_RB003" id="102">
+        <attvalues>
+          <attvalue for="0" value="0.111753" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_05" target="F022_RB18027" id="103">
+        <attvalues>
+          <attvalue for="0" value="0.123057" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_05" target="sgan_06" id="104">
+        <attvalues>
+          <attvalue for="0" value="0.0777656" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_01" target="F023_RB18027" id="105">
+        <attvalues>
+          <attvalue for="0" value="0.172723" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_01" target="F022_RB18027" id="106">
+        <attvalues>
+          <attvalue for="0" value="0.159185" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_01" target="F027_RB18028" id="107">
+        <attvalues>
+          <attvalue for="0" value="0.142066" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="sgan_01" target="F021_RB18027" id="108">
+        <attvalues>
+          <attvalue for="0" value="0.106016" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F023_RB18027" target="F027_RB18028" id="109">
+        <attvalues>
+          <attvalue for="0" value="0.124629" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F023_RB18027" target="F021_RB18027" id="110">
+        <attvalues>
+          <attvalue for="0" value="0.101091" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F023_RB18027" target="F022_RB18027" id="111">
+        <attvalues>
+          <attvalue for="0" value="0.0602248" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F004_RB18014" target="B377_RB331" id="112">
+        <attvalues>
+          <attvalue for="0" value="0.170732" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F022_RB18027" target="F027_RB18028" id="113">
+        <attvalues>
+          <attvalue for="0" value="0.0914826" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F022_RB18027" target="F021_RB18027" id="114">
+        <attvalues>
+          <attvalue for="0" value="0.0455021" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F027_RB18028" target="F021_RB18027" id="115">
+        <attvalues>
+          <attvalue for="0" value="0.0983146" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="murc_01" target="D142_RB524" id="116">
+        <attvalues>
+          <attvalue for="0" value="0.131238" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="murc_01" target="D147_RB540" id="117">
+        <attvalues>
+          <attvalue for="0" value="0.130413" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D142_RB524" target="D147_RB540" id="118">
+        <attvalues>
+          <attvalue for="0" value="0.0943539" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D142_RB524" target="D141_RB524" id="119">
+        <attvalues>
+          <attvalue for="0" value="0.0838843" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="F037_RB18035" target="sgan_08" id="120">
+        <attvalues>
+          <attvalue for="0" value="0.0884848" />
+          <attvalue for="1" value="Second-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D125_RB473" target="D110_RB421" id="121">
+        <attvalues>
+          <attvalue for="0" value="0.0573871" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D125_RB473" target="B289_RB094" id="122">
+        <attvalues>
+          <attvalue for="0" value="0.05131" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D125_RB473" target="gram_38" id="123">
+        <attvalues>
+          <attvalue for="0" value="0.0463072" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D125_RB473" target="more_17" id="124">
+        <attvalues>
+          <attvalue for="0" value="0.0455607" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D004_RB140" target="B384_RB336" id="125">
+        <attvalues>
+          <attvalue for="0" value="0.0722892" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D035_RB205" target="B111_RB044" id="126">
+        <attvalues>
+          <attvalue for="0" value="0.0669035" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+      <edge source="D035_RB205" target="B064_RB018" id="127">
+        <attvalues>
+          <attvalue for="0" value="0.0638745" />
+          <attvalue for="1" value="Third-degree" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,29 @@
+# Raw and processed genetic data
+data/raw/
+data/processed/
+
+# Large genotype files
+*.bed
+*.bim
+*.fam
+*.vcf
+*.vcf.gz
+*.tbi
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Conda environments
+.env/
+venv/
+wildlife_genetics/
+
+# Temporary logs
+*.log
+*.nosex
+
+# Editor and system files
+*~
+*.swp
+.DS_Store
